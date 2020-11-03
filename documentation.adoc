@@ -1,9 +1,9 @@
 [options="header"]
 [cols="1, 1, 2"]
 |===
-|AND | 0      | 1   | 
-|0     | 0   |  0| 
-|1     | 0   | 10 | 
+|AND   | 0 |  1  
+|0     | 0 |  0 
+|1     | 0 |  1  
 |
 |===
 === Ripple Carry Adder Schematic
