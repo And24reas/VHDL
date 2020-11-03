@@ -3,7 +3,7 @@ LOGIC GATES IMPLEMENTATIONS WITH VHDL
 
 == AND Truth Table
 [options="header"]
-[cols="h, m, s"]
+[cols="2, 2, 2"]
 |===
 |AND   | 0 |  1  
 |0     | 0 |  0 
