@@ -1,2 +1,26 @@
 # VHDL
 LOGIC GATES IMPLEMENTATIONS WITH VHDL
+
+== AND Truth Table
+[options="header"]
+[cols="1, 1, 2"]
+|===
+|AND   | 0 |  1  
+|0     | 0 |  0 
+|1     | 0 |  1  
+|
+|===
+
+== XOR Truth Table
+[options="header"]
+[cols="1, 1, 2"]
+|===
+|XOR   | 0 |  1  
+|0     | 0 |  1 
+|1     | 1 |  0  
+|
+|===
+
+== Ripple Carry Adder Schematic
+image::https://github.com/And24reas/VHDL/blob/main/ripple_carry_adder_sch.jpg[GitHub mascot]
+
