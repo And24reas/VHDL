@@ -18,5 +18,5 @@
 |
 |===
 
-=== Ripple Carry Adder Schematic
+== Ripple Carry Adder Schematic
 image::https://github.com/And24reas/VHDL/blob/main/ripple_carry_adder_sch.jpg[GitHub mascot]
