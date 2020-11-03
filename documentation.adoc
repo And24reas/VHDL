@@ -1,0 +1,3 @@
+=== Ripple Carry Adder Schematic
+
+image::https://github.com/st-tu-dresden-praktikum/swt19w47/blob/analysis/src/main/asciidoc/models/analysis/KontextdiagrammMagicDraw.png[GitHub mascot]
