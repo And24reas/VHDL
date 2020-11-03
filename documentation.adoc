@@ -1,3 +1,10 @@
+[options="header"]
+[cols="1, 1, 1, 1, 4"]
+|===
+|AND | 0      | 1   | 
+|0     | 0   |  0| 
+|1     | 0   | 10 | 
+|
+|===
 === Ripple Carry Adder Schematic
-
 image::https://github.com/And24reas/VHDL/blob/main/ripple_carry_adder_sch.jpg[GitHub mascot]
