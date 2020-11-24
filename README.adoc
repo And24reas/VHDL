@@ -22,5 +22,5 @@ LOGIC GATES IMPLEMENTATIONS WITH VHDL
 |===
 
 == Ripple Carry Adder Schematic
-image::https://github.com/And24reas/VHDL/blob/main/ripple_carry_adder_sch.jpg[GitHub mascot]
+https://github.com/And24reas/VHDL/blob/main/Adders/ripple_carry_adder_sch.jpg
 
